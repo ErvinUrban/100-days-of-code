@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode Log - Round 1 - Ervin Urban
 
 <h2 align=”center”>
 Day 1: December 25th, 2017
