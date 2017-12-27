@@ -1,6 +1,18 @@
 # #100DaysOfCode Log - Round 1 - Ervin Urban
 
 <h2 align=”center”>
+R1D2: December 27th, 2017
+</h2>
+
+**Today’s Progress**: Today I spend few hours of setting up my workplace environment, installing OS, IDE, ... Then I started with my first webscrapping project. No tutorials, just coding and reading official documentation.
+
+**Thoughts:** I achieved only very little progress in the project. Hopefully I am able to finish it tomorrow.
+
+**Link to tweet:** [ErvinUrban: Day 3](https://twitter.com/ErvinUrban/status/946124965258186754)
+
+**Link to project:** [Project3: Webscrapping](https://gist.github.com/ErvinUrban/437ed49e2b9f75a4cadf0df0551c9baf)
+
+<h2 align=”center”>
 R1D2: December 26th, 2017
 </h2>
 
