@@ -1,7 +1,19 @@
 # #100DaysOfCode Log - Round 1 - Ervin Urban
 
 <h2 align=”center”>
-R1D2: December 27th, 2017
+R1D4: December 28th, 2017
+</h2>
+
+**Today’s Progress**: Project is finished, all comics were downloaded.
+
+**Thoughts:** I learned something about Beautiful Soup and urllib. I like coding :)
+
+**Link to tweet:** [ErvinUrban: Day 4](https://twitter.com/ErvinUrban/status/946124965258186754)
+
+**Link to project:** [Project3: Webscrapping](https://gist.github.com/ErvinUrban/437ed49e2b9f75a4cadf0df0551c9baf)
+
+<h2 align=”center”>
+R1D3: December 27th, 2017
 </h2>
 
 **Today’s Progress**: Today I spend few hours of setting up my workplace environment, installing OS, IDE, ... Then I started with my first webscrapping project. No tutorials, just coding and reading official documentation.
