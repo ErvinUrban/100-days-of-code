@@ -1,6 +1,18 @@
 # #100DaysOfCode Log - Round 1 - Ervin Urban
 
 <h2 align=”center”>
+R1D5: December 29th, 2017
+</h2>
+
+**Today’s Progress**: 99 bottles of beer... Project is finished.
+
+**Thoughts:** It is becoming harder to keep coding every day. My trip will start tomorrow morning, but I will code. When I come back I will start with more complex topics (maybe some edX / Coursera course focusing on data science)
+
+**Link to tweet:** [ErvinUrban: Day 4](https://twitter.com/ErvinUrban/status/946500944975581187)
+
+**Link to project:** [Project4: 99 bottles of beer](https://gist.github.com/ErvinUrban/57fbec0eafd44e72fdbbc0454665326c)
+
+<h2 align=”center”>
 R1D4: December 28th, 2017
 </h2>
 
@@ -8,7 +20,7 @@ R1D4: December 28th, 2017
 
 **Thoughts:** I learned something about Beautiful Soup and urllib. I like coding :)
 
-**Link to tweet:** [ErvinUrban: Day 4](https://twitter.com/ErvinUrban/status/946124965258186754)
+**Link to tweet:** [ErvinUrban: Day 4](https://twitter.com/ErvinUrban/status/946500944975581187)
 
 **Link to project:** [Project3: Webscrapping](https://gist.github.com/ErvinUrban/437ed49e2b9f75a4cadf0df0551c9baf)
 
