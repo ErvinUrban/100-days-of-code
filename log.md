@@ -1,6 +1,18 @@
 # #100DaysOfCode Log - Round 1 - Ervin Urban
 
 <h2 align=”center”>
+R1D6: December 30th, 2017
+</h2>
+
+**Today’s Progress**: I created script to remove specific files from a folder. I wanted to remove 1000+ files, the script saved my some time. I also completed few exercises on exercism.io
+
+**Thoughts:** I should learn regular expressions.
+
+**Link to tweet:** [ErvinUrban: Day 5](https://twitter.com/ErvinUrban/status/946751508787466240)
+
+**Link to project:** [Project5: remove files from directory](https://gist.github.com/ErvinUrban/657c38cf30b4006b2a7c384bfa938430)
+
+<h2 align=”center”>
 R1D5: December 29th, 2017
 </h2>
 
@@ -8,7 +20,7 @@ R1D5: December 29th, 2017
 
 **Thoughts:** It is becoming harder to keep coding every day. My trip will start tomorrow morning, but I will code. When I come back I will start with more complex topics (maybe some edX / Coursera course focusing on data science)
 
-**Link to tweet:** [ErvinUrban: Day 4](https://twitter.com/ErvinUrban/status/946500944975581187)
+**Link to tweet:** [ErvinUrban: Day 5](https://twitter.com/ErvinUrban/status/946751508787466240)
 
 **Link to project:** [Project4: 99 bottles of beer](https://gist.github.com/ErvinUrban/57fbec0eafd44e72fdbbc0454665326c)
 
